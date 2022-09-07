@@ -1,0 +1,22 @@
+#t1{
+
+    background-color: orangered;
+    width: 100%;
+    height: 20%;
+    
+}
+#t2{
+
+    background-color: black;
+    width: 30%;
+    height: 70%;
+    display: inline-block;
+}
+#t3{
+
+    background-color: blue;
+    width: 50%;
+    height: 70%;
+    display: inline-block;
+    margin-left: 5%;
+}
